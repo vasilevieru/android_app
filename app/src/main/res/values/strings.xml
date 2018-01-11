@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Chisinau eat</string>
+    <string name="cafe">Cafe</string>
+    <string name="fastFood">Fast Food</string>
+    <string name="kebab">Kebab</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="pizza">Pizza</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="starkebab1">Star Kebab1</string>
+    <string name="starkebab2">Star Kebab2</string>
+    <string name="starkebab3">Star Kebab3</string>
+    <string name="starkebab4">Star Kebab4</string>
+    <string name="starkebab5">Star Kebab5</string>
+
+</resources>
